@@ -1,0 +1,175 @@
+Added Component: Designator=D0(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J0(*HDRV4W85P254_4X1_1062X650X1000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-4/TE%20Connectivity%20AMP%20Connectors/view-part/448422/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282834-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(*HDRV4W85P254_4X1_1062X650X1000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-4/TE%20Connectivity%20AMP%20Connectors/view-part/448422/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282834-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(*HDRV4W85P254_4X1_1062X650X1000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-4/TE%20Connectivity%20AMP%20Connectors/view-part/448422/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282834-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(*HDRV4W85P254_4X1_1062X650X1000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-4/TE%20Connectivity%20AMP%20Connectors/view-part/448422/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282834-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(*HDRV4W85P254_4X1_1062X650X1000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-4/TE%20Connectivity%20AMP%20Connectors/view-part/448422/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282834-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(TYPE-C-31-M-12)
+Added Component: Designator=J7(TYPE-C-31-M-12)
+Added Component: Designator=R0(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R1(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=U0(Teensy 3.2-4.0)
+Added Pin To Net: NetName=+5 Pin=J0-1
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=+5 Pin=J3-1
+Added Pin To Net: NetName=+5 Pin=J4-1
+Added Pin To Net: NetName=+5 Pin=J6-1
+Added Pin To Net: NetName=+5 Pin=J6-10
+Added Pin To Net: NetName=+5 Pin=J7-1
+Added Pin To Net: NetName=+5 Pin=J7-10
+Added Pin To Net: NetName=+5 Pin=U0-Vin
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=J6-3
+Added Pin To Net: NetName=+12 Pin=J6-9
+Added Pin To Net: NetName=+12 Pin=J7-3
+Added Pin To Net: NetName=+12 Pin=J7-9
+Added Net: Name=+12
+Added Pin To Net: NetName=A0 Pin=J0-2
+Added Pin To Net: NetName=A0 Pin=U0-0
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=J1-2
+Added Pin To Net: NetName=A1 Pin=U0-7
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=J2-2
+Added Pin To Net: NetName=A2 Pin=U0-14
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=J3-2
+Added Pin To Net: NetName=A3 Pin=U0-20
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=J4-2
+Added Pin To Net: NetName=A4 Pin=U0-22
+Added Net: Name=A4
+Added Pin To Net: NetName=B0 Pin=J0-3
+Added Pin To Net: NetName=B0 Pin=U0-1
+Added Net: Name=B0
+Added Pin To Net: NetName=B1 Pin=J1-3
+Added Pin To Net: NetName=B1 Pin=U0-8
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=J2-3
+Added Pin To Net: NetName=B2 Pin=U0-15
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=J3-3
+Added Pin To Net: NetName=B3 Pin=U0-21
+Added Net: Name=B3
+Added Pin To Net: NetName=B4 Pin=J4-3
+Added Pin To Net: NetName=B4 Pin=U0-23
+Added Net: Name=B4
+Added Pin To Net: NetName=CANH2 Pin=J7-2
+Added Net: Name=CANH2
+Added Pin To Net: NetName=CANH Pin=J6-2
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL2 Pin=J7-8
+Added Net: Name=CANL2
+Added Pin To Net: NetName=CANL Pin=J6-8
+Added Net: Name=CANL
+Added Pin To Net: NetName=GND Pin=D0-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=J0-4
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J6-0
+Added Pin To Net: NetName=GND Pin=J6-11
+Added Pin To Net: NetName=GND Pin=J7-0
+Added Pin To Net: NetName=GND Pin=J7-11
+Added Pin To Net: NetName=GND Pin=U0-GND
+Added Pin To Net: NetName=GND Pin=U0-GND2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD0_1 Pin=D0-1
+Added Pin To Net: NetName=NetD0_1 Pin=R0-2
+Added Net: Name=NetD0_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetR0_1 Pin=R0-1
+Added Pin To Net: NetName=NetR0_1 Pin=U0-4
+Added Net: Name=NetR0_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U0-2
+Added Net: Name=NetR1_1
+Added Class: Name=SensorBoard
+Added Room: Name=SensorBoard
