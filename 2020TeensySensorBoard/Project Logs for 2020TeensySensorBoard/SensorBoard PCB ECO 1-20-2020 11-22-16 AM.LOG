@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=   NewDesignator=J6
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Change Room Name: Old Name=M0BGA_Fanout New Name=SensorBoard
+Change Room Scope: Old Scope=InComponentClass('Room Definition 1') New Scope=InComponentClass('SensorBoard')

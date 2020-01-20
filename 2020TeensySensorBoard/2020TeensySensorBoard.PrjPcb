@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OJOVHIRX
+DocumentUniqueId=GXJDQDRD
 
 [Document3]
 DocumentPath=..\..\FootprintsAltium\TYPE-C-31-M-12\TYPE-C-31-M-12.LibPkg
@@ -104,6 +104,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 2020TeensySensorBoard\Design Rule Check - SensorBoard.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

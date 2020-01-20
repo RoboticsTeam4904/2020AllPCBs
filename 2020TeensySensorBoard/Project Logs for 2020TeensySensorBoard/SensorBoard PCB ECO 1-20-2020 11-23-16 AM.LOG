@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=   NewDesignator=J6
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J6-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Pin To Net: NetName=GND Pin=J7-12
+Added Member To Class: ClassName=SensorBoard Member=Component J6 USB-C Socket
