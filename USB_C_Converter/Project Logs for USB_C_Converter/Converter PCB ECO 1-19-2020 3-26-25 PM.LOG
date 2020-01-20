@@ -1,0 +1,35 @@
+Added Pin To Net: NetName=GND Pin=C0-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+12 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=+12 Pin=J0-1
+Added Pin To Net: NetName=+5 Pin=J0-2
+Added Pin To Net: NetName=GND Pin=J0-3
+Added Pin To Net: NetName=CAN H Pin=J0-4
+Added Pin To Net: NetName=CAN L Pin=J0-5
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=CAN H Pin=J1-2
+Added Pin To Net: NetName=+12 Pin=J1-3
+Added Pin To Net: NetName=CAN L Pin=J1-8
+Added Pin To Net: NetName=+12 Pin=J1-9
+Added Pin To Net: NetName=+5 Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J2-0
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=CAN H Pin=J2-2
+Added Pin To Net: NetName=+12 Pin=J2-3
+Added Pin To Net: NetName=CAN L Pin=J2-8
+Added Pin To Net: NetName=+12 Pin=J2-9
+Added Pin To Net: NetName=+5 Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J2-11
+Added Member To Class: ClassName=Converter Member=Component C0 0.1µF
+Added Member To Class: ClassName=Converter Member=Component C1 0.1µF
+Added Member To Class: ClassName=Converter Member=Component C2 4.7µF
+Added Member To Class: ClassName=Converter Member=Component C3 4.7µF
+Added Member To Class: ClassName=Converter Member=Component J0 282834-5
+Added Member To Class: ClassName=Converter Member=Component J1 USB-C Socket
+Added Member To Class: ClassName=Converter Member=Component J2 USB-C Socket
