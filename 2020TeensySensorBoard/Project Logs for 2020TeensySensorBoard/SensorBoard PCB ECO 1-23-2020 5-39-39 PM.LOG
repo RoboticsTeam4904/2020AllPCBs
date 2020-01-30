@@ -1,0 +1,8 @@
+Added Component: Designator=U1(TJA1051T)
+Added Pin To Net: NetName=TXD Pin=U1-0
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=Vin Pin=U1-2
+Added Pin To Net: NetName=RXD Pin=U1-3
+Added Pin To Net: NetName=CANH Pin=U1-6
+Added Pin To Net: NetName=S Pin=U1-7
+Added Member To Class: ClassName=CanTransceiver Member=Component U1 High speed CAN Transiver NC Variant
