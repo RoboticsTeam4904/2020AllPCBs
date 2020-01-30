@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetD0_1 Pin=J?-2
+Removed Pin From Net: NetName=NetD0_1 Pin=R0-2
+Removed Pin From Net: NetName=NetD0_1 Pin=R1-2
+Removed Pin From Net: NetName=NetD0_1 Pin=R2-2
+Removed Pin From Net: NetName=NetD0_1 Pin=R3-2
+Removed Pin From Net: NetName=NetD0_1 Pin=R4-2
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R0-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R1-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R2-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R3-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R4-2
+Added Net: Name=NetJ?_2
+Added Room: Name=ledring
