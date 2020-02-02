@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Member From Class: ClassName=Jetson Nano Power Member=C1
+Added Pin To Net: NetName=NetPS1_3 Pin=PS1-3
+Added Pin To Net: NetName=NetPS1_3 Pin=XF1-2
+Added Net: Name=NetPS1_3
