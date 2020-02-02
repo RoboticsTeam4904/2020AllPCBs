@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=C1 Old Footprint=TDK-B32921C3104M New Footprint=CAPC6153X670N
+Change Component Footprint: Designator=C2 Old Footprint=TDK-B32921C3104M New Footprint=CAPC6153X670N
+Change Component Footprint: Designator=C3 Old Footprint=TDK-B32921C3104M New Footprint=CAPC6153X670N
+Change Component Footprint: Designator=C4 Old Footprint=TDK-B32921C3104M New Footprint=CAPC6153X670N
+Change Component Comment : Designator=C1 Old Comment=B32921C3104M New Comment=KCM55WC71E107MH13L
+Change Component Comment : Designator=C2 Old Comment=B32921C3104M New Comment=KCM55WC71E107MH13L
+Change Component Comment : Designator=C3 Old Comment=B32921C3104M New Comment=KCM55WC71E107MH13L
+Change Component Comment : Designator=C4 Old Comment=B32921C3104M New Comment=KCM55WC71E107MH13L
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=319C2628-46AD-4836-9D29-C52995E0A253 New ItemGUID= Old RevisionGUID=5CA59CE3-72EF-4129-B59B-069134D0B4FF New RevisionGUID=
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=319C2628-46AD-4836-9D29-C52995E0A253 New ItemGUID= Old RevisionGUID=5CA59CE3-72EF-4129-B59B-069134D0B4FF New RevisionGUID=
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=319C2628-46AD-4836-9D29-C52995E0A253 New ItemGUID= Old RevisionGUID=5CA59CE3-72EF-4129-B59B-069134D0B4FF New RevisionGUID=
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=319C2628-46AD-4836-9D29-C52995E0A253 New ItemGUID= Old RevisionGUID=5CA59CE3-72EF-4129-B59B-069134D0B4FF New RevisionGUID=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "TDK-B32921C3104M"; UniqueID = "\UTNLUMSS" ("\UTNLUMSS")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/KCM55WC71E107MH13%23.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KCM55WC71E107MH13L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "TDK-B32921C3104M"; UniqueID = "\QTZZQKQC" ("\QTZZQKQC")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/KCM55WC71E107MH13%23.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KCM55WC71E107MH13L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "TDK-B32921C3104M"; UniqueID = "\YIFLYTGM" ("\YIFLYTGM")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/KCM55WC71E107MH13%23.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KCM55WC71E107MH13L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "TDK-B32921C3104M"; UniqueID = "\LRIDOFGE" ("\LRIDOFGE")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/KCM55WC71E107MH13%23.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KCM55WC71E107MH13L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Jetson Nano Power -2
