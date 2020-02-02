@@ -126,54 +126,58 @@ DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GM4
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GM13
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GM15
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GM16
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GPB
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GPT
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GTL
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GTO
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GTS
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.LDP
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.REP
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.RUL
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.REP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Jetson Nano Power-one\Jetson Nano Power-one.TXT
 DItemRevisionGUID=
 
@@ -296,7 +300,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=Generic / Text Only
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -396,7 +400,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=Generic / Text Only
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -471,7 +475,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16908292~1,16908301~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16908289~1,16908292~1,16908301~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs

@@ -2,8 +2,74 @@
 FileName = Jetson Nano Power-one.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : Jetson Nano Power-one.GBL
+Generating : Top Layer
+      File : Jetson Nano Power-one.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : Jetson Nano Power-one.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Jetson Nano Power-one.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Jetson Nano Power-one.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Jetson Nano Power-one.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Jetson Nano Power-one.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -11,12 +77,12 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
@@ -53,36 +119,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : Jetson Nano Power-one.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Jetson Nano Power-one.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 16
       File : Jetson Nano Power-one.GM16
 
@@ -112,6 +148,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Pad Master
+      File : Jetson Nano Power-one.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 13
       File : Jetson Nano Power-one.GM13
 
@@ -125,53 +179,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : Jetson Nano Power-one.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : Jetson Nano Power-one.GM4
-
-    Adding Layer      : Mechanical 4
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Jetson Nano Power-one.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Jetson Nano Power-one.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : Jetson Nano Power-one.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -179,11 +188,11 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
 *************************************************************
 

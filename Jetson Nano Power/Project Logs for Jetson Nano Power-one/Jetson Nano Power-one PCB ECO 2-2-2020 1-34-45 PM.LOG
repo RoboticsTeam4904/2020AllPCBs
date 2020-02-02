@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=C1 Old Footprint=TDK-B32921C3104M New Footprint=CAPPRD250W50D630H1250
+Change Component Footprint: Designator=C2 Old Footprint=TDK-B32921C3104M New Footprint=CAPPRD250W50D630H1250
+Change Component Comment : Designator=C1 Old Comment=B32921C3104M New Comment=ESK107M016AE3AA
+Change Component Comment : Designator=C2 Old Comment=B32921C3104M New Comment=ESK107M016AE3AA
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=319C2628-46AD-4836-9D29-C52995E0A253 New ItemGUID= Old RevisionGUID=5CA59CE3-72EF-4129-B59B-069134D0B4FF New RevisionGUID=
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=319C2628-46AD-4836-9D29-C52995E0A253 New ItemGUID= Old RevisionGUID=5CA59CE3-72EF-4129-B59B-069134D0B4FF New RevisionGUID=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "TDK-B32921C3104M"; UniqueID = "\YEZVYUJR" ("\YEZVYUJR")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/datasheet/ESK107M016AE3AA.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESK107M016AE3AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "TDK-B32921C3104M"; UniqueID = "\APQDWWJE" ("\APQDWWJE")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/datasheet/ESK107M016AE3AA.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "12.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESK107M016AE3AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=Jetson Nano Power New Net Name=Jetson Nano Power-one
+Added Member To Class: ClassName=Jetson Nano Power-one Member=Component XF1 696108003002

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Jetson Nano Power-one.PcbDoc   1/31/2020  11:32:10 AM
+NCDrill File Report For: Jetson Nano Power-one.PcbDoc   2/2/2020  2:41:16 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : Jetson Nano Power-one.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.9mm (35mil)                                             Round             4         PTH        0.00mm (0.00inch)
+T1      0.7mm (28mil)                                             Round             4         PTH        0.00mm (0.00inch)
 T2      1.4mm (55mil)                                             Round             5         PTH        0.00mm (0.00inch)
 T3      1.5mm (59mil)                                             Round             8         PTH        0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
