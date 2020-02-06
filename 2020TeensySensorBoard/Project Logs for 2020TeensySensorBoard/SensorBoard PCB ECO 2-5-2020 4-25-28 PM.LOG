@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=SensorBoard Member=R4
+Removed Member From Class: ClassName=CanTransceiver Member=U1
+Change Component Designator: OldDesignator=R4 NewDesignator=R0
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Added Member To Class: ClassName=SensorBoard Member=Component R0 Res1
+Added Member To Class: ClassName=CanTransceiver Member=Component U3 High speed CAN Transiver NC Variant
+Added Room: Name=CanTransceiver
+Added Room: Name=DC-DCConverter
+Added Room: Name=SensorBoard
