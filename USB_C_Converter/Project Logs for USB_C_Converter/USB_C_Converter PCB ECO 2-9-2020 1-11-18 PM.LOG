@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CAN L Pin=J1-8
+Removed Pin From Net: NetName=CAN L Pin=J2-8
+Added Pin To Net: NetName=CAN L Pin=J1-4
+Added Pin To Net: NetName=CAN L Pin=J1-6
+Added Pin To Net: NetName=CAN H Pin=J1-8
+Added Pin To Net: NetName=CAN L Pin=J2-4
+Added Pin To Net: NetName=CAN L Pin=J2-6
+Added Pin To Net: NetName=CAN H Pin=J2-8
+Change Class Name : Old Net Name=Converter New Net Name=USB_C_Converter
+Added Member To Class: ClassName=USB_C_Converter Member=Component J0 282834-5
