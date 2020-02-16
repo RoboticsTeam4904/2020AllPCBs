@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=CANL Pin=J5-1
+Removed Pin From Net: NetName=CANL Pin=J6-5
+Removed Pin From Net: NetName=CANL Pin=J7-5
+Removed Pin From Net: NetName=CANL Pin=R3-1
+Removed Pin From Net: NetName=CANL Pin=U3-5
+Change Net Name : Old Net Name=CANL New Net Name=+12
+Added Pin To Net: NetName=CANL Pin=J5-1
+Added Pin To Net: NetName=CANL Pin=J6-4
+Added Pin To Net: NetName=CANL Pin=J6-6
+Added Pin To Net: NetName=CANL Pin=J7-4
+Added Pin To Net: NetName=CANL Pin=J7-6
+Added Pin To Net: NetName=CANL Pin=R3-1
+Added Pin To Net: NetName=CANL Pin=U3-5
+Added Net: Name=CANL
+Added Member To Class: ClassName=SensorBoard Member=Component U0 Teensy 3.2/4.0 Mounting

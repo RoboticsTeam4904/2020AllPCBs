@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [2020TeensySensorBoard.PrjPcb]
+   Generated File[SensorBoard.GTO]
+   Generated File[SensorBoard.GTP]
+   Generated File[SensorBoard.GTS]
+   Generated File[SensorBoard.GTL]
+   Generated File[SensorBoard.GBL]
+   Generated File[SensorBoard.GBS]
+   Generated File[SensorBoard.GM1]
+   Generated File[SensorBoard.GM4]
+   Generated File[SensorBoard.GM10]
+   Generated File[SensorBoard.GM12]
+   Generated File[SensorBoard.GM13]
+   Generated File[SensorBoard.GM15]
+   Generated File[SensorBoard.GM16]
+   Generated File[SensorBoard.GKO]
+   Generated File[SensorBoard.GPT]
+   Generated File[SensorBoard.GPB]
+   Generated File[SensorBoard.GD1]
+   Generated File[SensorBoard.GG1]
+   Generated File[SensorBoard.RUL]
+   Generated File[SensorBoard.EXTREP]
+   Generated File[SensorBoard.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 3:07:44 PM On 2/9/2020

@@ -1,0 +1,56 @@
+Added Component: Designator=J8(*TE_282834-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-3/TE%20Connectivity%20AMP%20Connectors/view-part/398089/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282834-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(*TE_282834-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-3/TE%20Connectivity%20AMP%20Connectors/view-part/398089/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282834-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(*TE_282834-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-3/TE%20Connectivity%20AMP%20Connectors/view-part/398089/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282834-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J11(*TE_282834-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-3/TE%20Connectivity%20AMP%20Connectors/view-part/398089/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282834-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=INLED1 Pin=J8-3
+Added Pin To Net: NetName=+5 Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=INLED2 Pin=J9-3
+Added Pin To Net: NetName=+5 Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=INLED3 Pin=J10-3
+Added Pin To Net: NetName=+5 Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=INLED4 Pin=J11-3
+Added Member To Class: ClassName=SensorBoard Member=Component J8 282834-3
+Added Member To Class: ClassName=SensorBoard Member=Component J9 282834-3
+Added Member To Class: ClassName=SensorBoard Member=Component J10 282834-3
+Added Member To Class: ClassName=SensorBoard Member=Component J11 282834-3

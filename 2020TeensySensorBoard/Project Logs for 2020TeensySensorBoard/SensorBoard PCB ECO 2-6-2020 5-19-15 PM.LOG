@@ -1,0 +1,54 @@
+Added Component: Designator=U2(Texas_Instruments_SN74AHCT125N_0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/1c4f862725617c4f/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74ahct125.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC BUS BUFFER TRI-ST QD 14DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "296-4655-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/1c4f862725617c4f/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "DIP794W46P254L1930H508Q14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74AHCT125N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SN74AHCT125N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.244397165503"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-4655-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "595-SN74AHCT125N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=+5 Pin=U2-14
+Added Pin To Net: NetName=INLED1 Pin=U0-9
+Added Pin To Net: NetName=INLED1 Pin=U2-2
+Added Net: Name=INLED1
+Added Pin To Net: NetName=INLED2 Pin=U0-10
+Added Pin To Net: NetName=INLED2 Pin=U2-5
+Added Net: Name=INLED2
+Added Pin To Net: NetName=INLED3 Pin=U0-11
+Added Pin To Net: NetName=INLED3 Pin=U2-9
+Added Net: Name=INLED3
+Added Pin To Net: NetName=INLED4 Pin=U0-12
+Added Pin To Net: NetName=INLED4 Pin=U2-12
+Added Net: Name=INLED4
+Added Pin To Net: NetName=OUTLED1 Pin=U2-3
+Added Net: Name=OUTLED1
+Added Pin To Net: NetName=OUTLED2 Pin=U2-6
+Added Net: Name=OUTLED2
+Added Pin To Net: NetName=OUTLED3 Pin=U2-8
+Added Net: Name=OUTLED3
+Added Pin To Net: NetName=OUTLED4 Pin=U2-11
+Added Net: Name=OUTLED4
+Added Member To Class: ClassName=CanTransceiver Member=Component C1 0.47µF
+Added Member To Class: ClassName=SensorBoard Member=Component U2 IC_Texas_Instruments_SN74AHCT125N_eec
+Added Room: Name=CanTransceiver
+Added Room: Name=DC-DCConverter
+Added Room: Name=SensorBoard

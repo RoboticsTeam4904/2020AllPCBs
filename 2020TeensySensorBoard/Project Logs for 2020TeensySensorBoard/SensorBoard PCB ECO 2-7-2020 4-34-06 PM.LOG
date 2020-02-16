@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=D0-2
+Removed Pin From Net: NetName=GND Pin=D1-2
+Change Component Footprint: Designator=D0 Old Footprint=LED-1 New Footprint=Lumex_SSL-LX5093GD_0
+Change Component Footprint: Designator=D1 Old Footprint=LED-1 New Footprint=Lumex_SSL-LX5093GD_0
+Change Component Comment : Designator=D0 Old Comment=LED1 New Comment=Diode_Lumex_SSL-LX5093GD_eec
+Change Component Comment : Designator=D1 Old Comment=LED1 New Comment=Diode_Lumex_SSL-LX5093GD_eec
+Change component parameters: Designator = "D0" ("D0"); Footprint = "LED-1"; UniqueID = "\WODLSGWE" ("\WODLSGWE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/3e2d87dde4bc0270/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://upverter.com/datasheet/272633366bbf9b7ac85ecec6850b6be956700e69.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "DIODE LED GRN DIFF 5MM ROUND T/H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "67-1098-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/3e2d87dde4bc0270/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Lumex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "696-SSL-LX5093GD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SSL-LX5093GD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.134141512812"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1098-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "696-SSL-LX5093GD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "60°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2.2V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED-1"; UniqueID = "\JUVEYBBP" ("\JUVEYBBP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/3e2d87dde4bc0270/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://upverter.com/datasheet/272633366bbf9b7ac85ecec6850b6be956700e69.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "DIODE LED GRN DIFF 5MM ROUND T/H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "67-1098-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/3e2d87dde4bc0270/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Lumex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "696-SSL-LX5093GD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RADIAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SSL-LX5093GD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.134141512812"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "67-1098-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "696-SSL-LX5093GD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "60°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2.2V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D0-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD0_2 Pin=D0-2
+Added Pin To Net: NetName=NetD0_2 Pin=R0-2
+Added Net: Name=NetD0_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Net: Name=NetD1_2

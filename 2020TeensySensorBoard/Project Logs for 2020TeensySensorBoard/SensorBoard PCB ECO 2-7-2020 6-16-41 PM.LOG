@@ -1,0 +1,29 @@
+Added Component: Designator=J12(*TE_282834-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant with Exemptions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282834-3/TE%20Connectivity%20AMP%20Connectors/view-part/398089/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282834-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S0(*EG1218_EG1218(Primary))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EG1218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "FakePackage u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EG1218/E-Switch/view-part/13895/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=J12-1
+Added Pin To Net: NetName=GND Pin=J12-3
+Added Pin To Net: NetName=+12 Pin=S0-O
+Added Pin To Net: NetName=5in Pin=J12-2
+Added Pin To Net: NetName=5in Pin=S0-S
+Added Net: Name=5in
+Added Pin To Net: NetName=NetS0_P Pin=S0-P
+Added Pin To Net: NetName=NetS0_P Pin=U1-2
+Added Net: Name=NetS0_P
+Added Member To Class: ClassName=SensorBoard Member=Component J12 282834-3
+Added Member To Class: ClassName=DC-DCConverter Member=Component S0 EG1218
