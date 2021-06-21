@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations
+C:\Users\C\Documents\1Led\1lED\Project Outputs for 1lED\Pick Place for LEDringTHErightWAY.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/05/21
+Time:       23:50
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                 
+R4         Res1         TopLayer AXIAL-0.3        1732.284      2135.776      150      Resistor                                                    
+R3         Res1         TopLayer AXIAL-0.3        629.921       2135.776      210      Resistor                                                    
+R2         Res1         TopLayer AXIAL-0.3        78.740        1181.102      90       Resistor                                                    
+R1         Res1         TopLayer AXIAL-0.3        629.921       226.429       330      Resistor                                                    
+R0         Res1         TopLayer AXIAL-0.3        1732.284      226.429       210      Resistor                                                    
+J          282856-2     TopLayer TE_282856-2      2283.465      1181.102      90       "TERMI-BLOK PCB MOUNT 2P"                                   
+D14        OF-SMD3528WC TopLayer LED_OF-SMD3528WC 1900.429      1501.367      114      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D13        OF-SMD3528WC TopLayer LED_OF-SMD3528WC 1707.977      1766.256      138      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D12        OF-SMD3528WC TopLayer LED_OF-SMD3528WC 1424.423      1929.966      162      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D11        OF-SMD3528WC TopLayer LED_OF-SMD3528WC 1098.796      1964.190      186      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D10        OF-SMD3528WC TopLayer LED_OF-SMD3528WC 787.402       1863.012      210      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D9         OF-SMD3528WC TopLayer LED_OF-SMD3528WC 544.081       1643.925      234      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D8         OF-SMD3528WC TopLayer LED_OF-SMD3528WC 410.907       1344.812      258      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D7         OF-SMD3528WC TopLayer LED_OF-SMD3528WC 410.907       1017.392      282      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D6         OF-SMD3528WC TopLayer LED_OF-SMD3528WC 544.081       718.279       306      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D5         OF-SMD3528WC TopLayer LED_OF-SMD3528WC 787.402       499.193       330      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D4         OF-SMD3528WC TopLayer LED_OF-SMD3528WC 1098.796      398.014       354      "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D3         OF-SMD3528WC TopLayer LED_OF-SMD3528WC 1424.423      432.239       18       "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D2         OF-SMD3528WC TopLayer LED_OF-SMD3528WC 1707.977      595.949       42       "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D1         OF-SMD3528WC TopLayer LED_OF-SMD3528WC 1900.429      860.837       66       "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
+D0         OF-SMD3528WC TopLayer LED_OF-SMD3528WC 1968.504      1181.102      90       "LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120°; 2" 
